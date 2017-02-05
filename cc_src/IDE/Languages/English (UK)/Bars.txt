@@ -1,6 +1,0 @@
-properties=Properties
-project=Project
-layers=Layers
-resources=Resources
-animator=Animator
-objects=Objects
